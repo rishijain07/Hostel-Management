@@ -23,9 +23,9 @@ module.exports = {
 
 ### Screenshots
 
-![Home Page](https://github.com/rishijain07/Hostel-Management/blob/Docs/home.png)
+![Home Page](https://github.com/rishijain07/Hostel-Management/blob/master/home.png)
 
-![Dashboard](https://github.com/rishijain07/Hostel-Management/blob/Docs/dashboard.png)
+![Dashboard](https://github.com/rishijain07/Hostel-Management/blob/master/dashboard.png)
 
 ![Room Cleaning](https://github.com/rishijain07/Hostel-Management/blob/master/room%20cleaning.png)
 
