@@ -19,13 +19,13 @@ module.exports = {
 ### Run the application
 - `npm run dev`
 
-**Find API Documentation [here](https://github.com/starkblaze01/Hostel-Management/blob/master/API_Endpoints.md).**
+**Find API Documentation [here](https://github.com/rishijain07/Hostel-Management/blob/master/API_Endpoints.md).**
 
 ### Screenshots
 
-![Home Page](https://github.com/starkblaze01/Hostel-Management/blob/Docs/home.png)
+![Home Page](https://github.com/rishijain07/Hostel-Management/blob/Docs/home.png)
 
-![Dashboard](https://github.com/starkblaze01/Hostel-Management/blob/Docs/dashboard.png)
+![Dashboard](https://github.com/rishijain07/Hostel-Management/blob/Docs/dashboard.png)
 
-![Room Cleaning](https://github.com/starkblaze01/Hostel-Management/blob/Docs/room%20cleaning.png)
+![Room Cleaning](https://github.com/rishijain07/Hostel-Management/blob/master/room%20cleaning.png)
 
