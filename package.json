@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/starkblaze01/Hostel-Management/issues"
   },
-  "homepage": "https://hostel-management.github.io",
+  "homepage": "https://rishijain07.github.io/Hostel-Management/",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
