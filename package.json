@@ -27,9 +27,9 @@
   "homepage": "https://rishijain07.github.io/Hostel-Management/",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.4",
     "concurrently": "^5.3.0",
-    "express": "^4.16.4",
+    "express": "^4.22.0",
     "gh-pages": "^4.0.0",
     "gravatar": "^1.8.1",
     "jsonwebtoken": "^8.5.1",
